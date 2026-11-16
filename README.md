@@ -11,7 +11,7 @@ Fullstack Web Developer from Semarang, Indonesia. I enjoy building web apps that
 
 ## 🛠 What tools do I use?
 - **Frontend:** JavaScript, React.js, Next.js, Vue.js, HTML, CSS
-- **Backend:** Laravel, CodeIgniter, Yii, REST API
+- **Backend:** Laravel, CodeIgniter, Yii, Node, REST API
 - **Database:** MySQL, MariaDB, PostgreSQL
 - **Tools:** Git, GitHub, Flutter, Python
 
