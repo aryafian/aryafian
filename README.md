@@ -5,6 +5,7 @@ Fullstack Web Developer from Semarang, Indonesia. I enjoy building web apps that
 
 ## 🔭 What am I working on?
 - Previously built [Pintaraja] (https://pintaraja.com)
+- Previously built [Bapenda] (https://bapenda.jatengprov.go.id)
 - Improving my [portfolio] (https://aryafians.vercel.app)
 - Looking for my next role as a Fullstack Developer
 
