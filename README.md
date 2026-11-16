@@ -9,10 +9,10 @@ Fullstack Web Developer from Semarang, Indonesia. I enjoy building web apps that
 - Looking for my next role as a Fullstack Developer
 
 ## 🛠 What tools do I use?
-**Frontend:** JavaScript, React.js, Next.js, Vue.js, HTML, CSS
-**Backend:** Laravel, CodeIgniter, Yii, REST API
-**Database:** MySQL, MariaDB, PostgreSQL
-**Tools:** Git, GitHub, Flutter, Python
+- **Frontend:** JavaScript, React.js, Next.js, Vue.js, HTML, CSS
+- **Backend:** Laravel, CodeIgniter, Yii, REST API
+- **Database:** MySQL, MariaDB, PostgreSQL
+- **Tools:** Git, GitHub, Flutter, Python
 
 <!--
 **aryafian/aryafian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
